@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "eth-balance-checker": "^0.1.1",
     "web3": "^1.3.0"
   }
 }
